@@ -1,2 +1,2 @@
 # LoraWan-Multihop
-A tool to simulate the implemaetation of a tree topology on top LoRaWan
+A tool to simulate the implementation of a tree topology on top of LoRaWan
